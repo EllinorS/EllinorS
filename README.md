@@ -1,14 +1,16 @@
-# Hi, I'm Elli 👋
+# Hi, Bonjour :) I'm Elli
 
-Full-stack developer building at the intersection of **marketing and code**.
+I'm a full-stack developer with a background in digital marketing.
 
-Before I wrote software, I spent 6 years in digital marketing (Meta & Google Ads, SEO, e-commerce). Now I build the products instead of just running traffic to them, which means I think about performance, conversion, and the humans on the other end of the screen, not only the codebase.
+For six years, I helped businesses grow through SEO, Google Ads, Meta Ads and e-commerce. Somewhere along the way, I realized I wanted to build the products I was promoting, not just market them.
+
+That marketing background still shapes how I write code. I care about performance, accessibility and user experience as much as clean architecture. I like building things that are fast, practical and enjoyable to use.
 
 📍 Based in France with one foot in New Zealand 🌊
 
 ---
 
-### 🛠️ Stack
+### My toolbox
 
 **Frontend** : React · Next.js · Vite · TypeScript \
 **Backend** : Node.js · Express · Python · Django \
@@ -18,17 +20,18 @@ Before I wrote software, I spent 6 years in digital marketing (Meta & Google Ads
 
 ---
 
-### 🚀 What I'm building
+### Current project
 
 **[ALAIA Surf Coach](https://alaia-surf-coaching.vercel.app/)** : a full-stack surf-coaching booking platform
-Currently rebuilding it on a modern, type-safe stack with a spec-first, test-driven approach. Also optimizing it a surf-rating engine built on the Open-Meteo Marine API.
+
+I'm currently rebuilding it with a modern type-safe stack, focusing on clean architecture, testing, and long-term maintainability. I'm also working on a surf-rating engine powered by the Open-Meteo Marine API.
 
 ---
 
-### 🌐 Let's connect
+### Let's connect
 
-💼 LinkedIn — [/in/ellinorschwetterle](https://www.linkedin.com/in/ellinorschwetterle/)
+💼 LinkedIn [/in/ellinorschwetterle](https://www.linkedin.com/in/ellinorschwetterle/)
 
 ---
 
-<sub>Open to full-stack and marketing-tech roles on-site and remote-friendly.</sub>
+<sub>Currently open to full-stack developer opportunities, especially where product, UX and engineering come together.</sub>
