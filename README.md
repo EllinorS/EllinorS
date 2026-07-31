@@ -21,7 +21,7 @@ Before I wrote software, I spent 6 years in digital marketing (Meta & Google Ads
 ### 🚀 What I'm building
 
 **[ALAIA Surf Coach](https://alaia-surf-coaching.vercel.app/)** : a full-stack surf-coaching booking platform
-Currently rebuilding it on a modern, type-safe stack with a spec-first, test-driven approach. Also home to a surf-rating engine built on live marine forecast data.
+Currently rebuilding it on a modern, type-safe stack with a spec-first, test-driven approach. Also optimizing it a surf-rating engine built on the Open-Meteo Marine API.
 
 ---
 
